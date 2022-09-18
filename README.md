@@ -2,14 +2,14 @@ FRT-Project
 
 Final Future Ready Talent(FRT) Project. An E-Learning platform that provides free as well as premium certified courses at an affordable price.
 
-Languages Used
-HTML
-CSS
+Languages Used:-
+HTML,
+CSS,
 JavaScript
 
-Core Azure Services Used
-Static Web Apps
-QnA Maker
+Core Azure Services Used:
+Static Web Apps,
+QnA Maker,
 AI + Machine Learning (QnA Maker, Web App Bot)
 
 Image of the Home Page
